@@ -1,1 +1,15 @@
-# n
+--love
+--love
+--love
+--love
+--love
+--love
+--love
+--love
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGSCRIPTDEV/1XLIIHUB/main/README.md"))()
+--love
+--love
+--love
+--love
+--love
+--love
